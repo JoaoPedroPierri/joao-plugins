@@ -1,3 +1,3 @@
 # Plugins meme
 
-laugh plugin
+plugin de risada
