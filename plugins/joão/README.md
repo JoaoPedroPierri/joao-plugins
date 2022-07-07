@@ -1,3 +1,3 @@
-#a Plugins
+#Plugins
 
-laugh plugin
+Plugin de risada
